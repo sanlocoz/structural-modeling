@@ -9,7 +9,7 @@ The documentation of the interface could be found in this relative path (assumin
 
 or for an example of default ETABS 18 installation in windows 10 will result in absolute path as follows:
 
-`C:\Program Files\Computers and Structures\ETABS 18`
+`C:\Program Files\Computers and Structures\ETABS 18\CSi API ETABS v17.chm`
 
 ## Parameter of the program
 
