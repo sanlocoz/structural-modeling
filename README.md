@@ -11,6 +11,8 @@ The documentation of the interface could be found in this relative path (assumin
 ## Parameter of the program
 
 - Geometry properties
+It consists of the configuration in x, y, and z axis.
+
 - Material properties 
 - Section properties
 - Typical dead load
