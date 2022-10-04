@@ -11,6 +11,12 @@ or for an example of default ETABS 18 installation in windows 10 will result in 
 
 `C:\Program Files\Computers and Structures\ETABS 18\CSi API ETABS v17.chm`
 
+This is the screenshot of the introduction to CSi API (application programming interface):
+
+<img src="img/1.PNG" alt="CSi API" width="700"/>
+
+*Introduction to CSi API*
+
 ## Parameter of the program
 
 - Geometry properties
