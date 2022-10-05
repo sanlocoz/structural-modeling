@@ -59,3 +59,7 @@ CSI ETABS front end accessing with Python programming language </br>
 Reducing modeling time from 1 hour to 5 minutes, the input data is in spreadsheet
 
 ## Future work suggestions
+Structural optimization by trial and error often results in unsystematic set of solutions. 
+Therefore I suggest to use machine learning optimization such as genetic algorithm (part of evolutionary algorithm) for future works.
+The element of structure could be modeled as genes that being mutated in order to make the fittest individual given the constraint of structural stress and deflection.
+The objective function could be construction cost for a more abstract parameter or volume of materials for a simpler parameter.
