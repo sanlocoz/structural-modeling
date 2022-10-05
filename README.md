@@ -36,7 +36,9 @@ Besides the configuration, users also can model many materials (concrete and rei
 
 The objective of the program is to automate modeling process of 3D simple space frame and their section properties.
 - Geometry properties <br>
-Jumlah Lantai = 
+The parameter for geometry is given in `GEOMETRI` sheet in the Excel.
+This is the list of the parameter:
+`Jumlah Lantai` = `Number of story` 
 Tinggi Lantai Tipikal
 Tinggi Lantai Bawah
 Jumlah Bentang X
