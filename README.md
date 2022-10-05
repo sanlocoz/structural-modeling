@@ -18,13 +18,15 @@ This is the screenshot of the introduction to CSi API (application programming i
 *Introduction to CSi API*
 
 ## Limitations
-The program is just to automate the modeling process of simple 3D space frame as shown in figures below:
+The program is just to automate the modeling process of simple 3D space frame as shown in figures below.
+Parameter of the program are in the Excel document and retrieved to Python program and will be supplied to API from CSi. This is the list of the parameter used in the automation of the modeling:
+
 <br> <br> <img src="img/2.png" alt="CSi API" width="300"/>
 <br> *Plan view (X-Y axis plane)* <br> <br> <img src="img/3.png" alt="CSi API" width="250"/>
 <br> *Side view (Y-Z axis plane)* <br> <br> <img src="img/4.png" alt="CSi API" width="250"/>
 <br> *Front view (X-Y axis plane)*
 
-Besides the configuration, users also can model many materials and section properties using Excel to later interact with the programming interface.
+Besides the configuration, users also can model many materials (concrete and reinforcement bars) and section properties using Excel to later interact with the programming interface.
 
 
 **NB: Structural optimization is out of the scope of this program.**
@@ -32,8 +34,6 @@ Besides the configuration, users also can model many materials and section prope
 ## Parameter of the program
 
 The objective of the program is to automate modeling process of 3D simple space frame and their section properties.
-Parameter of the program are in the Excel document and retrieved to Python program and will be supplied to API from CSi. This is the list of the parameter used in the automation of the modeling:
-
 - Geometry properties <br>
 Jumlah Lantai = 
 Tinggi Lantai Tipikal
