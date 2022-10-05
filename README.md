@@ -18,7 +18,11 @@ This is the screenshot of the introduction to CSi API (application programming i
 *Introduction to CSi API*
 
 ## Limitations
-The program is just to automate the modeling process of simple 3D space 
+The program is just to automate the modeling process of simple 3D space
+<br> <br> <img src="img/2.png" alt="CSi API" width="300"/>
+<br> *Plan view (X-Y axis plane)* <br> <br> <img src="img/3.png" alt="CSi API" width="250"/>
+<br> *Side view (Y-Z axis plane)* <br> <br> <img src="img/4.png" alt="CSi API" width="250"/>
+<br> *Front view (X-Y axis plane)*
 
 ## Parameter of the program
 
@@ -35,10 +39,7 @@ Bentang X
 Bentang Y
 
 It consists of the configuration in x, y, and z axis, dimensions and number of members in each direction.
-<br> <br> <img src="img/2.png" alt="CSi API" width="300"/>
-<br> *Plan view (X-Y axis plane)* <br> <br> <img src="img/3.png" alt="CSi API" width="250"/>
-<br> *Side view (Y-Z axis plane)* <br> <br> <img src="img/4.png" alt="CSi API" width="250"/>
-<br> *Front view (X-Y axis plane)*
+
 
 - Material properties
 Material properties is defined for several parameter such as ultimate compression stress for concrete (The modulus of elasticity is derived by empirical formula for conventional reinforced concrete)"
