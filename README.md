@@ -61,4 +61,4 @@ The objective functions could be construction cost for a more abstract parameter
 
 <img src="img/5.webp" alt="CSi API" width="700"/>
 
-*Processes in genetic algorithm (Guariso G., Sangiorgio, M.)*
+*Evolutionary process in genetic algorithm (Guariso G., Sangiorgio, M.)*
