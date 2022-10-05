@@ -54,11 +54,11 @@ Material properties are defined for several parameters such as ultimate compress
 Sheet: `PROP_BALOK`, `PROP_KOLOM`, `PROP_SLAB` <br>
 Section properties for columns, beams and slabs could be given from the users. The input consists several parameters such as width, height and the configuration of the reinforcement bar.
 
-- Typical dead load
+- Typical dead load <br>
 Sheet: `BEBAN_MATI` <br>
 Super imposed dead load that will be applied on top of the slab. For the units, refer to the choice in the Excel.
 
-- Typical live load
+- Typical live load <br>
 Sheet: `BEBAN_HIDUP` <br>
 Live load that will be applied on top of the slab. For the units, refer to the choice in the Excel.
 
