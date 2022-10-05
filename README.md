@@ -17,6 +17,9 @@ This is the screenshot of the introduction to CSi API (application programming i
 
 *Introduction to CSi API*
 
+## Limitations
+The program is just to 
+
 ## Parameter of the program
 
 The objective of the program is to automate modeling process of 3D simple space frame and their section properties.
@@ -29,8 +32,8 @@ It consists of the configuration in x, y, and z axis, dimensions and number of m
 <br> *Side view (Y-Z axis plane)* <br> <br> <img src="img/4.png" alt="CSi API" width="250"/>
 <br> *Front view (X-Y axis plane)*
 
-
-- Material properties 
+- Material properties
+Material properties is defined for several parameter such as ultimate compression stress for concrete (The modulus of elasticity is derived by empirical formula for conventional reinforced concrete)"
 - Section properties
 - Typical dead load
 - Typical live load
