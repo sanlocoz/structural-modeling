@@ -36,7 +36,6 @@ Besides the configuration, users also can model many materials (concrete and rei
 
 The objective of the program is to automate modeling process of 3D simple space frame and their section properties.
 - Geometry properties <br>
-The parameter for geometry is given in `GEOMETRI` sheet in the Excel.
 It consists of the structural configuration in x, y, and z axis.
 This is the list of the parameter: <br>
 `Jumlah Lantai` = number of story <br>
@@ -51,7 +50,8 @@ This is the list of the parameter: <br>
 Material properties are defined for several parameters such as ultimate compression stress for concrete
 (modulus of elasticity is derived by empirical formula for conventional reinforced concrete) and mechanical properties for reinforcement bar.
 
-- Section properties
+- Section properties <br>
+Section properties for columns, beams and slab could be given from the users. The input consists several parameters such as width, height and the configurantion of the rebar.
 
 - Typical dead load
 
