@@ -29,9 +29,10 @@ Parameter of the program are in the Excel document and retrieved to Python progr
 Besides the configuration, users also can model many materials (concrete and reinforcement bars) and section properties using Excel to later interact with the programming interface.
 
 
-**NB: Structural optimization is out of the scope of this program.**
+*Structural optimization is out of the scope of this program.*
 
 ## Parameter of the program
+
 
 The objective of the program is to automate modeling process of 3D simple space frame and their section properties.
 - Geometry properties <br>
