@@ -46,10 +46,10 @@ This is the list of the parameter: <br>
 
 - Material properties <br>
 Material properties are defined for several parameters such as ultimate compression stress for concrete
-(modulus of elasticity is derived by empirical formula for conventional reinforced concrete) and mechanical properties for reinforcement bar.
+(modulus of elasticity is derived by empirical formula for conventional reinforced concrete) and mechanical properties for reinforcement bars.
 
 - Section properties <br>
-Section properties for columns, beams and slab could be given from the users. The input consists several parameters such as width, height and the configurantion of the rebar.
+Section properties for columns, beams and slab could be given from the users. The input consists several parameters such as width, height and the configuration of the reinforcement bars.
 
 - Typical dead load
 
