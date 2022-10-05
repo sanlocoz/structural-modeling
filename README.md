@@ -48,9 +48,13 @@ It consists of the configuration in x, y, and z axis, dimensions and number of m
 
 
 - Material properties
-Material properties is defined for several parameter such as ultimate compression stress for concrete (The modulus of elasticity is derived by empirical formula for conventional reinforced concrete)"
+Material properties is defined for several parameter such as ultimate compression stress for concrete 
+(The modulus of elasticity is derived by empirical formula for conventional reinforced concrete)"
+
 - Section properties
+
 - Typical dead load
+
 - Typical live load
 
 ## Future work suggestions
