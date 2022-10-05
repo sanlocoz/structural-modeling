@@ -32,7 +32,7 @@ It consists of the configuration in x, y, and z axis.
 
 *Side view (Y-Z axis plane)*
 
-<img src="img/4.png" alt="CSi API" width="300>
+<img src="img/4.png" alt="CSi API" width="300"/>
 
 *Front view (X-Y axis plane)*
 
