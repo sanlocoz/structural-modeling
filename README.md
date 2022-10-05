@@ -24,10 +24,10 @@ The program is just to automate the modeling process of simple 3D space frame as
 <br> *Side view (Y-Z axis plane)* <br> <br> <img src="img/4.png" alt="CSi API" width="250"/>
 <br> *Front view (X-Y axis plane)*
 
-Besides the configuration, users also can model manny material and section properties using Excel to later interact with the programming interface.
+Besides the configuration, users also can model many materials and section properties using Excel to later interact with the programming interface.
 
 
-For the structural optimization is out of the scope of this program.
+**NB: Structural optimization is out of the scope of this program.**
 
 ## Parameter of the program
 
