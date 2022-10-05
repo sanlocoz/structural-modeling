@@ -44,8 +44,8 @@ This is the list of the parameter: <br>
 `Tinggi Lantai Bawah` = First floor story height <br>
 `Jumlah Bentang X` = Number of spans in X direction <br>
 `Jumlah Bentang Y` = Number of spans in Y direction <br>
-`Bentang X` = Length of X direction element of structure <br>
-`Bentang Y` = Length of Y direction element of structure <br>
+`Bentang X` = Length of structural elements in X direction <br>
+`Bentang Y` = Length of structural elements in Y direction <br>
 
 - Material properties
 Material properties is defined for several parameter such as ultimate compression stress for concrete 
