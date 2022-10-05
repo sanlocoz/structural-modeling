@@ -18,7 +18,7 @@ This is the screenshot of the introduction to CSi API (application programming i
 *Introduction to CSi API*
 
 ## Limitations
-The program is just to 
+The program is just to automate the modeling process of 
 
 ## Parameter of the program
 
