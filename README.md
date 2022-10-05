@@ -20,7 +20,6 @@ This is the screenshot of the introduction to CSi API (application programming i
 ## Limitations
 The program is just to automate the modeling process of simple 3D space frame as shown in figures below.
 Parameter of the program are in the Excel document and retrieved to Python program and will be supplied to API from CSi. This is the list of the parameter used in the automation of the modeling:
-
 <br> <br> <img src="img/2.png" alt="CSi API" width="300"/>
 <br> *Plan view (X-Y axis plane)* <br> <br> <img src="img/3.png" alt="CSi API" width="250"/>
 <br> *Side view (Y-Z axis plane)* <br> <br> <img src="img/4.png" alt="CSi API" width="250"/>
