@@ -18,7 +18,7 @@ This is the screenshot of the introduction to CSi API (application programming i
 *Introduction to CSi API*
 
 ## Limitations
-The program is just to automate the modeling process of 
+The program is just to automate the modeling process of simple 3D space 
 
 ## Parameter of the program
 
@@ -26,6 +26,14 @@ The objective of the program is to automate modeling process of 3D simple space 
 Parameter of the program are in the Excel document and retrieved to Python program and will be supplied to API from CSi. This is the list of the parameter used in the automation of the modeling:
 
 - Geometry properties <br>
+Jumlah Lantai = 
+Tinggi Lantai Tipikal
+Tinggi Lantai Bawah
+Jumlah Bentang X
+Jumlah Bentang Y
+Bentang X
+Bentang Y
+
 It consists of the configuration in x, y, and z axis, dimensions and number of members in each direction.
 <br> <br> <img src="img/2.png" alt="CSi API" width="300"/>
 <br> *Plan view (X-Y axis plane)* <br> <br> <img src="img/3.png" alt="CSi API" width="250"/>
