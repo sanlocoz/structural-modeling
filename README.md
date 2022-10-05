@@ -24,8 +24,8 @@ Parameter of the program are in the Excel document and retrieved to Python progr
 
 - Geometry properties
 It consists of the configuration in x, y, and z axis. <br> <br> <img src="img/2.png" alt="CSi API" width="300"/>
-<br> *Plan view (X-Y axis plane)* <br> <br> <img src="img/3.png" alt="CSi API" width="200"/>
-<br> *Side view (Y-Z axis plane)* <br> <br> <img src="img/4.png" alt="CSi API" width="200"/>
+<br> *Plan view (X-Y axis plane)* <br> <br> <img src="img/3.png" alt="CSi API" width="250"/>
+<br> *Side view (Y-Z axis plane)* <br> <br> <img src="img/4.png" alt="CSi API" width="250"/>
 <br> *Front view (X-Y axis plane)*
 
 
