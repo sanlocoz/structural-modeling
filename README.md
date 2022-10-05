@@ -48,8 +48,8 @@ This is the list of the parameter: <br>
 `Bentang Y` = length of structural elements in Y direction <br>
 
 - Material properties <br>
-Material properties is defined for several parameter such as ultimate compression stress for concrete
-(modulus of elasticity is derived by empirical formula for conventional reinforced concrete)
+Material properties are defined for several parameters such as ultimate compression stress for concrete
+(modulus of elasticity is derived by empirical formula for conventional reinforced concrete) and mechanical properties for reinforcement bar.
 
 - Section properties
 
