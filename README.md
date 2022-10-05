@@ -19,8 +19,15 @@ This is the screenshot of the introduction to CSi API (application programming i
 
 ## Parameter of the program
 
+The objective of the program is to automate modeling process of 3D space frame and their section properties.
+Parameter of the program are in the Excel document and retrieved to Python program and will be supplied to API from CSi. This is the list of the parameter used in the automation of the modeling:
+
 - Geometry properties
 It consists of the configuration in x, y, and z axis.
+
+<img src="img/2.png" alt="CSi API" width="700"/>
+<img src="img/3.png" alt="CSi API" width="700"/>
+<img src="img/4.png" alt="CSi API" width="700"/>
 
 - Material properties 
 - Section properties
@@ -31,3 +38,5 @@ It consists of the configuration in x, y, and z axis.
 
 CSI ETABS front end accessing with Python programming language </br>
 Reducing modeling time from 1 hour to 5 minutes, the input data is in spreadsheet
+
+## Future work suggestions
