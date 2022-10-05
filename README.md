@@ -53,11 +53,6 @@ Material properties is defined for several parameter such as ultimate compressio
 - Typical dead load
 - Typical live load
 
-
-
-CSI ETABS front end accessing with Python programming language </br>
-Reducing modeling time from 1 hour to 5 minutes, the input data is in spreadsheet
-
 ## Future work suggestions
 Structural optimization by trial and error often results in unsystematic set of solutions. 
 Therefore I suggest to use machine learning optimization such as genetic algorithm (part of evolutionary algorithm) for future works.
