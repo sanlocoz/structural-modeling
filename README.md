@@ -33,8 +33,6 @@ Besides the configuration, users also can model many materials (concrete and rei
 
 ## Parameter of the program
 
-
-The objective of the program is to automate modeling process of 3D simple space frame and their section properties.
 - Geometry properties <br>
 It consists of the structural configuration in x, y, and z axis.
 This is the list of the parameter: <br>
