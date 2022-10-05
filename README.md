@@ -37,7 +37,7 @@ Besides the configuration, users also can model many materials (concrete and rei
 The objective of the program is to automate modeling process of 3D simple space frame and their section properties.
 - Geometry properties <br>
 The parameter for geometry is given in `GEOMETRI` sheet in the Excel.
-It consists of the configuration in x, y, and z axis, dimensions and number of members in each direction.
+It consists of the structural configuration in x, y, and z axis.
 This is the list of the parameter: <br>
 `Jumlah Lantai` = Number of story <br>
 `Tinggi Lantai Tipikal` = Typical story height (2nd and upper story height) <br>
