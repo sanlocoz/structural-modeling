@@ -34,6 +34,7 @@ Besides the configuration, users also can model many materials (concrete and rei
 ## Parameter of the program
 
 - Geometry properties <br>
+Sheet: `GEOMETRI` <br>
 It consists of the structural configuration in x, y, and z axis.
 This is the list of the parameter: <br>
 `Jumlah Lantai` = number of story <br>
@@ -45,10 +46,12 @@ This is the list of the parameter: <br>
 `Bentang Y` = length of structural elements in Y direction <br>
 
 - Material properties <br>
+Sheet: `MAT_BETON`, `MAT_TULANGAN` <br>
 Material properties are defined for several parameters such as ultimate compression stress for concrete
 (modulus of elasticity is derived by empirical formula for conventional reinforced concrete) and mechanical properties for reinforcement bar.
 
 - Section properties <br>
+Sheet: `PROP_BALOK`, `PROP_KOLOM`, `PROP_SLAB` <br>
 Section properties for columns, beams and slabs could be given from the users. The input consists several parameters such as width, height and the configuration of the reinforcement bar.
 
 - Typical dead load
