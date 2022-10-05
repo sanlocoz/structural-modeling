@@ -60,4 +60,5 @@ The element of structure could be modeled as genes that being mutated and evolve
 The objective functions could be construction cost for a more abstract parameter or volume of materials for a simpler parameter.
 
 <img src="img/5.webp" alt="CSi API" width="700"/>
-by Giorgio Guariso ,Matteo Sangiorgio
+
+*Processes in genetic algorithm (Guariso G., Sangiorgio, M.)*
