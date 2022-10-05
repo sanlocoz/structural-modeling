@@ -19,14 +19,23 @@ This is the screenshot of the introduction to CSi API (application programming i
 
 ## Parameter of the program
 
-The objective of the program is to automate modeling process of 3D space frame and their section properties.
+The objective of the program is to automate modeling process of 3D simple space frame and their section properties.
 Parameter of the program are in the Excel document and retrieved to Python program and will be supplied to API from CSi. This is the list of the parameter used in the automation of the modeling:
 
 - Geometry properties
 It consists of the configuration in x, y, and z axis.
 <img src="img/2.png" alt="CSi API" width="300"/>
+
+*Plan view (X-Y axis plane)*
+
 <img src="img/3.png" alt="CSi API" width="300"/>
-<img src="img/4.png" alt="CSi API" width="300"/>
+
+*Side view (Y-Z axis plane)*
+
+<img src="img/4.png" alt="CSi API" width="300
+
+*Front view (X-Y axis plane)*
+
 
 - Material properties 
 - Section properties
