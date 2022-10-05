@@ -42,13 +42,10 @@ This is the list of the parameter: <br>
 `Jumlah Lantai` = Number of story <br>
 `Tinggi Lantai Tipikal` = Typical story height (2nd and upper story height) <br>
 `Tinggi Lantai Bawah` = First floor story height <br>
-Jumlah Bentang X = Number of spans in X direction
-Jumlah Bentang Y
-Bentang X
-Bentang Y
-
-
-
+`Jumlah Bentang X` = Number of spans in X direction <br>
+`Jumlah Bentang Y` = Number of spans in Y direction <br>
+`Bentang X` = Length of X direction element of structure <br>
+`Bentang Y` = Length of Y direction element of structure <br>
 
 - Material properties
 Material properties is defined for several parameter such as ultimate compression stress for concrete 
