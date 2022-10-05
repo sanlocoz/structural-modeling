@@ -25,9 +25,9 @@ Parameter of the program are in the Excel document and retrieved to Python progr
 - Geometry properties
 It consists of the configuration in x, y, and z axis.
 
-<img src="img/2.png" alt="CSi API" width="700"/>
-<img src="img/3.png" alt="CSi API" width="700"/>
-<img src="img/4.png" alt="CSi API" width="700"/>
+<img src="img/2.png" alt="CSi API" width="300"/>
+<img src="img/3.png" alt="CSi API" width="300"/>
+<img src="img/4.png" alt="CSi API" width="300"/>
 
 - Material properties 
 - Section properties
