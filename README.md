@@ -40,7 +40,7 @@ The parameter for geometry is given in `GEOMETRI` sheet in the Excel.
 It consists of the structural configuration in x, y, and z axis.
 This is the list of the parameter: <br>
 `Jumlah Lantai` = Number of story <br>
-`Tinggi Lantai Tipikal` = Typical story height (2nd and upper story height) <br>
+`Tinggi Lantai Tipikal` = Typical story height (2<sup>nd</sup> and upper story height) <br>
 `Tinggi Lantai Bawah` = First floor story height <br>
 `Jumlah Bentang X` = Number of spans in X direction <br>
 `Jumlah Bentang Y` = Number of spans in Y direction <br>
